@@ -1,41 +1,56 @@
-# Welcome to My GitHub Profile!
+<!-- Header -->
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" width="200" height="200" alt="Your Name">
+</p>
 
-## About Me
-Hello, I'm [Your Name]! I am passionate about [your interests or skills]. Here's a bit about me:
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm [Your Name], a passionate software engineer.</h3>
 
-- 🔭 I’m currently working on [project or work]
-- 🌱 I’m currently learning [skills or technologies]
-- 💬 Ask me about [topics you're knowledgeable about]
-- 📫 How to reach me: [your email or social media]
+<!-- About Me -->
+<p align="center">
+  🔭 I’m currently working on **[Current Project]**
+  <br/>
+  🌱 I’m currently learning **[Technologies you're learning]**
+  <br/>
+  💬 Ask me about **[Your expertise or interests]**
+  <br/>
+  📫 How to reach me: **[Your email or contact information]**
+</p>
 
-## Skills
-Here are some technologies and tools I work with:
+<!-- Skills -->
+<h2 align="center">⚙️ Skills & Tools</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,html5,css3,git,github" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<!-- Connect with Me -->
+<h2 align="center">🌐 Connect with Me</h2>
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
-## Latest Blog Posts
-- [How to Create a Stunning GitHub Profile README](https://yourblog.com/github-profile-readme)
-- [Introduction to Data Visualization with Python](https://yourblog.com/data-visualization-python)
+<!-- GitHub Stats -->
+<h2 align="center">📈 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-## Projects
-Check out some of my projects:
+<!-- Random Dev Quote -->
+<h2 align="center">✍️ Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
-1. [Project 1](https://github.com/yourusername/project1): Short description of the project.
-2. [Project 2](https://github.com/yourusername/project2): Short description of the project.
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true)
-
-## Connect with Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-
-## Embedding YouTube Video
-You can embed YouTube videos using HTML:
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yourvideoid" frameborder="0" allowfullscreen></iframe>
+<!-- Footer -->
+<hr/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;I'm+always+ready+to+learn+😎;">
+</p>
